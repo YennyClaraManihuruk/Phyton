@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Department,JoiningDate,PerformanceScore
+1,John Doe,28,50000,Sales,2021-01-15,85
+2,Jane Smith,35,60000,Marketing,2020-03-10,90
+3,Emily Davis,45,70000,HR,2019-07-25,80
+4,Michael Brown,30,55000,IT,2021-05-30,88
+5,Jessica Johnson,40,65000,Finance,2018-11-11,92
+6,Daniel Wilson,50,,Operations,2017-08-20,76
+7,Laura Martinez,29,48000,Sales,2022-02-14,84
+8,James Anderson,33,58000,Marketing,2020-10-05,89
+9,Patricia Thomas,38,62000,HR,2019-12-02,83
+10,Christopher Jackson,44,73000,IT,2016-06-18,91
